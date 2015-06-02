@@ -1,4 +1,8 @@
 # hello-world
 Just another repository 
 Hi humans,
-This is Nate. I am enrolled in a master's program in Loyola University Chicago and take this open source class. I wish I could survive this summer and get started as a computer science professional. 
+This is robot. I am trying to code a program and test it on Git.
+type "hello-world"
+do what if "helllo-world"
+  #end
+  
